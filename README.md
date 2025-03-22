@@ -57,7 +57,7 @@ Comme vous pouvez le constater, il s'agit non seulement d'un moyen pratique de c
 
 ```bash
 # Installation via composer
-composer require Likewares/laravel-search-string
+composer require likewares/laravel-search-string
 
 # (Facultatif) Publier le fichier de configuration search-string.php
 php artisan vendor:publish --tag=search-string
